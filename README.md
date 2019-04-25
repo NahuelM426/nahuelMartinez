@@ -1,7 +1,8 @@
 ```
 Nahuel Martinez
 ```
-logo :https://areajugones.sport.es/wp-content/uploads/2019/04/goku-ui-incompleto-810x400.jpg
+tema : jekyll-theme-minimal
+logo :https://avatars0.githubusercontent.com/u/43456293?s=400&u=d01407813626c30e5e6b50a8138241b9abedf1d8&v=4
 show_downloads :"true"
 ### Estudios Realizados 
 - tecnicatura en infarmatica de la univercidad de Quilmes
