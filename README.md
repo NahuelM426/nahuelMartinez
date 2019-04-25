@@ -1,5 +1,5 @@
 ```
-### Nahuel martinez
+Nahuel Martinez
 ```
 ### Estudios Realizados 
 - tecnicatura en infarmatica de la univercidad de Quilmes
@@ -13,5 +13,5 @@
 - Viajar 
 
   {% if site.logo %}
-          <img src="{{site.logo | https://areajugones.sport.es/wp-content/uploads/2019/04/goku-ui-incompleto-810x400.jpg}}" alt="Logo" />
+          <img src="{{https://areajugones.sport.es/wp-content/uploads/2019/04/goku-ui-incompleto-810x400.jpg}}" alt="Logo" />
         {% endif %}
