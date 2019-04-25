@@ -1,5 +1,6 @@
-#### Nahuel martinez
-
+```
+### Nahuel martinez
+```
 ### Estudios Realizados 
 - tecnicatura en infarmatica de la univercidad de Quilmes
 
