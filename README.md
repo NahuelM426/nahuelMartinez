@@ -1,8 +1,5 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/NahuelM426/nahuelMartinez/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Nahuel martinez
 
-## 
-Mama Domiga rosa nicolau
+### Estudis Realizados 
+- tecnicatura en infarmatica de la univercidad de Quilmes
