@@ -11,7 +11,5 @@ Nahuel Martinez
 ### Gustos 
 - Progamacion
 - Viajar 
+logo : [https://areajugones.sport.es/wp-content/uploads/2019/04/goku-ui-incompleto-810x400.jpg] 
 
-  {% if site.logo %}
-          <img src="{{https://areajugones.sport.es/wp-content/uploads/2019/04/goku-ui-incompleto-810x400.jpg}}" alt="Logo" />
-        {% endif %}
