@@ -11,4 +11,6 @@
 - Progamacion
 - Viajar 
 
-
+  {% if site.logo %}
+          <img src="{{site.logo | https://areajugones.sport.es/wp-content/uploads/2019/04/goku-ui-incompleto-810x400.jpg}}" alt="Logo" />
+        {% endif %}
