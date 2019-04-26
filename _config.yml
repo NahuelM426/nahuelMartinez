@@ -1,3 +1,6 @@
+theme: jekyll-theme-modernist
+logo: /img/WhatsApp Image 2019-04-24 at 23.00.20.jpeg
+
 # App Info
 ios_app_id                                : 1234793120                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
