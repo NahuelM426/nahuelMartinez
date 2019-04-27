@@ -1,7 +1,7 @@
 ### *Nahuel Martinez*
 
 ### Estudios Realizados 
-- tecnicatura en infarmatica de la univercidad de Quilmes
+- Tecnicatura en Informática de la Universidad de Quilmes
 
 ### Informacion 
 - 23 años
