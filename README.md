@@ -1,5 +1,4 @@
-###
-*Nahuel Martinez*
+### *Nahuel Martinez*
 
 ## Estudios Realizados 
 - tecnicatura en infarmatica de la univercidad de Quilmes
