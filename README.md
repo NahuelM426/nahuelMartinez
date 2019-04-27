@@ -1,14 +1,14 @@
-##
-**Nahuel Martinez**
+###
+*Nahuel Martinez*
 
-### Estudios Realizados 
+## Estudios Realizados 
 - tecnicatura en infarmatica de la univercidad de Quilmes
 
-### Informacion 
+## Informacion 
 - 23 años
 - vivo en Capitan Sarmiento 
 
-### Gustos 
+## Gustos 
 - Progamacion
 - Viajar 
 
